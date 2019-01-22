@@ -46,7 +46,7 @@ option bars are down the left hadn side of the feed
 <br>
 -This site feels bland to me, it serves its purpose though and gets to the point, lots of white space
 <br>
--I'd maybe change their related recipes portion at the bottom of the page, as it feels crowded and recipe names under the picture are a bti small
+-I'd maybe change their related recipes portion at the bottom of the page, as it feels crowded and recipe names under the picture are a bit small
 
 
 
